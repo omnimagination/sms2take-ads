@@ -1,0 +1,1 @@
+# sms2take-ads
